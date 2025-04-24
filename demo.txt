@@ -1,1 +1,2 @@
 this is my first file for using advanced git commands
+this is edit statement
